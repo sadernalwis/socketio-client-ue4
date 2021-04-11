@@ -45,7 +45,7 @@ HTTPS currently not yet supported
  3. Create a *Plugins* in your project root folder and use that path for step 4. command.
  4. Git clone. Repository uses submodules, so recommended command is:
  
-```git clone https://github.com/getnamo/socketio-client-ue4.git --recurse-submodules```
+```git clone https://github.com/sadernalwis/socketio-client-ue4.git --recurse-submodules```
 
 ## Example Project - Chat
 
